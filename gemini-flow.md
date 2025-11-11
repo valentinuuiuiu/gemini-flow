@@ -7233,7 +7233,7 @@ await supabase.deploy_edge_function(project.id, {
 - **Tavily**: `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`
 - **Perplexity**: `pplx-YOUR_PERPLEXITY_API_KEY_HERE`  
 - **Kagi**: `jwhbqXnFUeumanfpfSpiIr_vd663aiW_ORt0DLIVkiY.gS_jIJwi1GLEg0Zltal1UIDjt7HjD80Sse9XrkLX4LA`
-- **Jina AI**: `jina_683ffb6bcf654df180e23bb295f89685MlMNLzdymhOED85JO9J4GQGa2o34`  
+- **Jina AI**: `[REDACTED]`  
 - **Brave**: `BSAnXra1Mi3pjydpA69fWYRIuI5I0ej`
 - **Firecrawl**: `fc-76cf1d887dc24802800d89a32fbdcf36`
 
